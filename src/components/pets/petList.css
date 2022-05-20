@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Source+Sans+Pro:wght@200&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,500&family=Montserrat:wght@900&family=Source+Sans+Pro:wght@200&display=swap');
+
+
+  div.gallery:hover {
+    opacity: 0.3;
+  }
+  
+  div.gallery img {
+    margin: 1px;
+    float: left;
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+    object-fit: cover;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+ 
